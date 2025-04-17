@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604884227292",
+    "project_id": "gefefdsf-f4181",
+    "storage_bucket": "gefefdsf-f4181.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604884227292:android:12395cebd7cbe99e9d5019",
+        "android_client_info": {
+          "package_name": "com.project.baitap10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEUBEa_7JH4PP1atZgJFGbo0aBuqbtaZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
